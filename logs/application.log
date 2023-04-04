@@ -451,3 +451,9 @@
 2023-04-04 18:46:14 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
 2023-04-04 18:46:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
 2023-04-04 18:46:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-04-04 18:51:03 [main] INFO  l.e.e.service.PersonService - Person with ID 1 was successfully deleted
+2023-04-04 18:51:03 [main] INFO  l.e.e.service.PersonService - Saving person: Person(id=1, firstName=Test, lastName=Person, gender=MALE, dateOfBirth=2023-04-04, phoneNumber=1234567890, email=test@mail.com)
+2023-04-04 18:51:03 [main] INFO  l.e.e.service.PersonService - Saving person: Person(id=1, firstName=Test, lastName=Person, gender=MALE, dateOfBirth=2023-04-04, phoneNumber=1234567890, email=test@mail.com)
+2023-04-04 18:51:15 [main] INFO  l.e.e.service.PersonService - Person with ID 1 was successfully deleted
+2023-04-04 18:51:15 [main] INFO  l.e.e.service.PersonService - Saving person: Person(id=1, firstName=Test, lastName=Person, gender=MALE, dateOfBirth=2023-04-04, phoneNumber=1234567890, email=test@mail.com)
+2023-04-04 18:51:15 [main] INFO  l.e.e.service.PersonService - Saving person: Person(id=1, firstName=Test, lastName=Person, gender=MALE, dateOfBirth=2023-04-04, phoneNumber=1234567890, email=test@mail.com)
